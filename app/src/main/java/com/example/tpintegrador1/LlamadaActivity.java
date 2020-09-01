@@ -21,7 +21,7 @@ public class LlamadaActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_llamada);
-        Llamar("2664871692");
+        Llamar("911");
 
     }
     public void Llamar(String numero) {
